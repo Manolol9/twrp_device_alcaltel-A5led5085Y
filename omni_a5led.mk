@@ -6,7 +6,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 PRODUCT_COPY_FILES += device/TCL/a5led/prebuilt/zImage:kernel
 
 PRODUCT_DEVICE := a5led
-PRODUCT_NAME := aosp_a5led
+PRODUCT_NAME := omni_a5led
 PRODUCT_BRAND := TCL
 PRODUCT_MODEL := a5led
 PRODUCT_MANUFACTURER := TCL
