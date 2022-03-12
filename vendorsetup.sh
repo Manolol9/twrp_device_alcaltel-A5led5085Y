@@ -1,2 +1,2 @@
-﻿add_lunch_combo aosp_a5led-eng
-add_lunch_combo aosp_a5led-userdebug
+add_lunch_combo omni_a5led-eng
+add_lunch_combo omni_a5led-userdebug
